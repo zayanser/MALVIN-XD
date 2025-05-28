@@ -40,10 +40,10 @@ MODE: process.env.MODE || "private",
       MENTION_REPLY: process.env.MENTION_REPLY || "true",
 // make true if want auto voice reply if someone menetion you 
 
-     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/ewjggk.jpg",
+     MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/6unqhw.mp4",
 // add custom menu and mention reply image url
 
-       ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/c4p3qt.png",
+       ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/6unqhw.mp4",
 // add img for alive msg
 
         LIVE_MSG: process.env.LIVE_MSG || "> ʙᴏᴛ ɪs sᴘᴀʀᴋɪɴɢ ᴀᴄᴛɪᴠᴇ ᴀɴᴅ ᴀʟɪᴠᴇ\n\n\nᴋᴇᴇᴘ ᴜsɪɴɢ ✦ᴍᴀʟᴠɪɴ xᴅ✦ ғʀᴏᴍ ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ ɪɴᴄ⚡\n\n\n*© ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ - ᴍᴅ\n\n> ɢɪᴛʜᴜʙ :* github.com/XdKing2/MALVIN-XD",
@@ -103,7 +103,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝗭𝗔𝗬𝗔𝗡𝗦𝗘𝗥",
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "263780166288",
+     DEV: process.env.DEV || "601117508525",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
